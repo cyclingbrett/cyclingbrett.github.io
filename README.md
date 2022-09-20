@@ -9,6 +9,7 @@
 <p><img src="Profile_Pic1.png" alt="" width="180"/></p>
 
 <p>This repository was created as a requirement for RMIT Intro to IT Assessment 1</p>
+<p>The index.html file contains all of the required assessment information to complete the HTML GitHub Page</p>
 
 </html>
 
